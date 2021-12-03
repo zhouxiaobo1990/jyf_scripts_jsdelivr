@@ -104,3 +104,7 @@ and limitations under the License.
 /*! https://mths.be/punycode v1.3.2 by @mathias */
 
 /*! unmute-ios-audio. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+//! stable.js 0.1.8, https://github.com/Two-Screen/stable
+
+//! © 2018 Angry Bytes and contributors. MIT licensed.
